@@ -1,2 +1,2 @@
-# BankMicroServices
-Spring Boot MicroService
+# microservices-config
+Central repository configurations 
